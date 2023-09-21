@@ -5,17 +5,19 @@ description: >-
   zkEVM
 ---
 
-# Pre-Mine Sandy
+# Bootstrapping Liquidity
 
-Throughout its initial launch phase, SandySwap proactively explores valuable partnerships within the decentralized finance (DeFi) sector. Our team actively interacts with well-known DeFi projects, blockchain platforms, and liquidity providers, forging symbiotic relationships. These partnerships encompass a wide spectrum, spanning from technical integrations to marketing endeavors, all with the common goal of boosting liquidity, broadening the selection of supported assets, and elevating the overall user experience within our decentralized exchange (DEX) platform.
+Throughout its initial launch phase, SandySwap proactively explores valuable partnerships within the decentralized finance (DeFi) sector. Our team actively interacts with well-known DeFi projects, blockchain platforms, and liquidity providers, forging symbiotic relationships.&#x20;
 
-## $SANDY Airdrop for Users:&#x20;
+These partnerships encompass a wide spectrum, spanning from technical integrations to marketing endeavors, all with the common goal of boosting liquidity, broadening the selection of supported assets, and elevating the overall user experience within our decentralized exchange (DEX) platform.
 
-As part of the launch phase, SandySwap introduces an exciting opportunity for users to receive a $**SANDY** token airdrop. Any user who interacts with the lending protocol during this phase, either by borrowing or lending, will be eligible to receive a predetermined amount of $**SANDY** tokens as a reward. This airdrop incentivizes early adoption and encourages users to explore the features and benefits of SandySwap.
+## $SANDY Airdrop for Users:
 
-To be start farming the airdrop you just need to provide liquidity to the protocol and start earning $**SANDY**.
+As part of the launch phase, SandySwap introduces an exciting opportunity for users to receive a $**SANDY** token airdrop. Any user who interacts with the protocol during this phase, either by, will be eligible to receive a predetermined amount of $**SANDY** tokens as a reward.&#x20;
 
-Please feel free to visit [http://sandySwap.xyz/](http://sandySwap.xyz/) and start interacting with the application.
+This airdrop incentivizes early adoption and encourages users to explore the features and benefits of SandySwap. To be start farming all you just need to provide liquidity to the protocol and start earning $**SANDY**.
 
-- **Total $SANDY supply**: 100,000,000,000 $SANDY
-- **Initial fully diluted market cap**: 5,000,000$
+Please feel free to visit [http://sandySwap.xyz/](http://sandyswap.xyz/) and start interacting with the application.
+
+* **Total $SANDY supply**: 100,000,000,000 $SANDY
+* **Initial fully diluted market cap**: 5,000,000$
